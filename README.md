@@ -3,11 +3,11 @@ Restaurant Menu Manager 🎯
 Basic Details 
 Team Name: RRR 
 Team Members:  
-Member 1: Revathy - [SCTCE]  
+Member 1: Revathy P S- [SCTCE]  
 
-Member 2: Nandana - [SCTCE]  
+Member 2: Nandana Rajesh- [SCTCE]  
 
-Member 3: Riya -[SCTCE] 
+Member 3: Riya Mary Sajan -[SCTCE] 
 
 Project Description 
 The Restaurant Menu Manager is a web-based application that allows restaurant managers to easily add, edit, and manage menu items. It offers a user-friendly interface for updating menu details like names, descriptions, prices, and images. 
@@ -86,21 +86,6 @@ restaurant-menu-manager/
 Project Documentation 
 For Software: 
 
-Screenshots 
-
-![Screenshot1](Add screenshot 1 here with proper name) 
-
-This shows the home page of the Restaurant Menu Manager, where users can view menu items and categories. 
-
-![Screenshot2](Add screenshot 2 here with proper name) 
-
-This shows the menu item addition form where managers can input details for new items. 
-
-![Screenshot3](Add screenshot 3 here with proper name) 
-
-This shows the menu update functionality, allowing users to modify existing menu items. 
-
- 
 
 Project Demo 
 
