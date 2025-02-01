@@ -106,9 +106,12 @@ Project Demo
 
 Video 
 
-[Add your demo video link here] 
+User side menu
+https://drive.google.com/file/d/1matj_RzEwmMZqOiuxen2Q6qvRn1T3p0Y/view?usp=drive_link
 
-This video demonstrates the complete workflow of adding, editing, and deleting menu items in the Restaurant Menu Manager. 
+Chef side management
+https://drive.google.com/file/d/1cpk4FjyvPJYZdCuLg_75MLjxi6Ci1o0D/view?usp=drive_link
+
 
 
 
