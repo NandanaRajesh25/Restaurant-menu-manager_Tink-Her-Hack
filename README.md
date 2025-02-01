@@ -10,7 +10,7 @@ Member 2: Nandana Rajesh- [SCTCE]
 Member 3: Riya Mary Sajan -[SCTCE] 
 
 Project Description 
-The Restaurant Menu Manager is a web-based application that allows restaurant managers to easily add, edit, and manage menu items. It offers a user-friendly interface for updating menu details like names, descriptions, prices, and images. 
+The Restaurant Menu Manager is a web-based application that allows restaurant managers to easily handle menu items. It offers a user-friendly interface . 
 
  
 The Problem Statement 
@@ -56,35 +56,8 @@ Run
 
 To run the application: 
 For the frontend (React): bash npm start 
-For the backend (if applicable, for instance if using Node.js with Express): bash npm run server 
 The app will be available at http://localhost:3000 by default. 
 
-
- Project Structure
-Here is a summary of the directory structure:
-
-bash
-Copy
-Edit
-restaurant-menu-manager/
-├── public/                    # Static assets (images, fonts, etc.)
-├── src/                       # Frontend React code
-│   ├── components/            # Components like MenuItem, MenuList
-│   ├── pages/                 # React pages (Home, MenuPage)
-│   ├── App.js                 # Main React component
-│   └── index.js               # Entry point for React
-├── server/                    # Backend server code (if applicable)
-│   ├── models/                # Database models (e.g., MenuItem, Category)
-│   ├── routes/                # API routes for menu management
-│   ├── server.js              # Main server file
-│   └── .env                   # Environment configuration
-├── package.json               # Project metadata and dependencies
-├── README.md                  # Project documentation
-└── .gitignore                 # Files to ignore in Git
-
-
-Project Documentation 
-For Software: 
 
 
 Project Demo 
@@ -98,6 +71,9 @@ Chef side management
 https://drive.google.com/file/d/1cpk4FjyvPJYZdCuLg_75MLjxi6Ci1o0D/view?usp=drive_link
 
 
+Screenshots
+
+https://drive.google.com/drive/folders/1ZcdRFMF4ussoGTg96KUoW2tufals5Kzq
 
 
 Team Contributions 
