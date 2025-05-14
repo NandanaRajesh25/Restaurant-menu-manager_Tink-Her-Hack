@@ -1,6 +1,6 @@
-# 🍽️ Restaurant Menu Manager
+#  Restaurant Menu Manager - TinkHerHack Hackathon Project
 
-> A responsive, web-based app for effortless restaurant menu management.
+ A responsive, web-based app for effortless restaurant menu management.
 
 ---
 
@@ -34,9 +34,9 @@ All from a centralized dashboard – reducing manual effort and enhancing effici
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
-### 💻 Software
+###  Software
 - **Languages:** JavaScript, HTML, CSS  
 - **Frontend:** React  
 - **Routing:** React Router  
@@ -47,9 +47,9 @@ All from a centralized dashboard – reducing manual effort and enhancing effici
 
 ---
 
-## 🚀 Implementation
+##  Implementation
 
-### 🔧 Installation
+###  Installation
 
 ```bash
 # Clone the repository
@@ -62,13 +62,13 @@ cd restaurant-menu-manager
 npm install
 ```
 
-### ▶ Running the App
+###  Running the App
 
 ```bash
 # Start the frontend (React)
 npm start
 ```
-> The app runs at **http://localhost:3000** by default.
+ The app runs at **http://localhost:3000** by default.
 
 ---
 
