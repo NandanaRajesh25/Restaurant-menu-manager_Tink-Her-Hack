@@ -4,7 +4,7 @@
 
 ---
 
-## 👥 Team RRR
+##  Team RRR
 
 - **Revathy P S** – [SCTCE]  
 - **Nandana Rajesh** – [SCTCE]  
@@ -12,24 +12,24 @@
 
 ---
 
-## 📌 Project Description
+##  Project Description
 
 The **Restaurant Menu Manager** is a user-friendly web application that simplifies the process of managing restaurant menus. It provides an intuitive interface for adding, updating, and organizing menu items.
 
 ---
 
-## ❗ Problem Statement
+##  Problem Statement
 
 Managing a restaurant menu manually can be tedious, especially with frequent updates. Restaurant owners need a fast, centralized solution to modify menu items and synchronize changes across locations.
 
 ---
 
-## ✅ Our Solution
+##  Our Solution
 
 We developed a **responsive web app** that allows:
-- 📝 Easy addition of new items
-- 📂 Categorization of dishes
-- 💰 Quick price updates  
+-  Easy addition of new items
+-  Categorization of dishes
+-  Quick price updates  
 All from a centralized dashboard – reducing manual effort and enhancing efficiency.
 
 ---
@@ -44,8 +44,6 @@ All from a centralized dashboard – reducing manual effort and enhancing effici
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB
 
-### 🖥️ Hardware
-- *N/A – Software-only project*
 
 ---
 
@@ -64,7 +62,7 @@ cd restaurant-menu-manager
 npm install
 ```
 
-### ▶️ Running the App
+### ▶ Running the App
 
 ```bash
 # Start the frontend (React)
@@ -74,20 +72,20 @@ npm start
 
 ---
 
-## 🎥 Project Demo
+##  Project Demo
 
-- **👤 User-side Menu View**  
+- ** User-side Menu View**  
   [Watch Demo](https://drive.google.com/file/d/1matj_RzEwmMZqOiuxen2Q6qvRn1T3p0Y/view?usp=drive_link)
 
-- **👨‍🍳 Chef-side Management**  
+- ** Chef-side Management**  
   [Watch Demo](https://drive.google.com/file/d/1cpk4FjyvPJYZdCuLg_75MLjxi6Ci1o0D/view?usp=drive_link)
 
-- **🖼️ Screenshots**  
+- ** Screenshots**  
   [View Folder](https://drive.google.com/drive/folders/1ZcdRFMF4ussoGTg96KUoW2tufals5Kzq)
 
 ---
 
-## 🧑‍💻 Team Contributions
+## Team Contributions
 
 | Team Member | Contributions |
 |-------------|----------------|
