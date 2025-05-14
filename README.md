@@ -1,66 +1,100 @@
-Restaurant Menu Manager 🎯 
+# 🍽️ Restaurant Menu Manager
 
-Basic Details 
-Team Name: RRR 
-Team Members:  
-Member 1: Revathy P S- [SCTCE]  
-Member 2: Nandana Rajesh- [SCTCE]  
-Member 3: Riya Mary Sajan -[SCTCE] 
+> A responsive, web-based app for effortless restaurant menu management.
 
-Project Description : The Restaurant Menu Manager is a web-based application that allows restaurant managers to easily handle menu items. It offers a user-friendly interface . 
+---
 
- 
-The Problem Statement :Managing a restaurant menu can be time-consuming, especially if the menu changes frequently. Restaurant owners struggle with creating a fast, easy way to update and organize their menus while keeping everything synced across their locations. 
+## 👥 Team RRR
 
- 
+- **Revathy P S** – [SCTCE]  
+- **Nandana Rajesh** – [SCTCE]  
+- **Riya Mary Sajan** – [SCTCE]  
 
-The Solution : We created an intuitive, responsive web app that allows restaurant managers to easily add new menu items, categorize them, and update prices. The solution minimizes manual work and makes menu management simple, all with just a few clicks! 
+---
 
- 
-Technical Details :
-Technologies/Components Used 
+## 📌 Project Description
 
-For Software: 
-Languages Used: JavaScript, HTML, CSS 
-Frameworks Used: React (Frontend) 
-Libraries Used: React Router (Routing), Axios (API requests) 
-Tools Used: Node.js (Backend), Express.js (API server), MongoDB (Database) 
+The **Restaurant Menu Manager** is a user-friendly web application that simplifies the process of managing restaurant menus. It provides an intuitive interface for adding, updating, and organizing menu items.
 
-For Hardware: 
-N/A (This is a software-only project) 
+---
 
+## ❗ Problem Statement
 
+Managing a restaurant menu manually can be tedious, especially with frequent updates. Restaurant owners need a fast, centralized solution to modify menu items and synchronize changes across locations.
 
-Implementation :
+---
 
-For Software: 
-Installation 
-To get started with the project, follow these steps: 
-Clone the repository: bash git clone https://github.com/YourUsername/restaurant-menu-manager.git 
-Navigate into the project folder: bash cd restaurant-menu-manager 
-Install the required dependencies: bash npm install 
-Run 
+## ✅ Our Solution
 
-To run the application: 
-For the frontend (React): bash npm start 
-The app will be available at http://localhost:3000 by default. 
+We developed a **responsive web app** that allows:
+- 📝 Easy addition of new items
+- 📂 Categorization of dishes
+- 💰 Quick price updates  
+All from a centralized dashboard – reducing manual effort and enhancing efficiency.
 
+---
 
+## 🛠️ Technical Stack
 
-Project Demo :
-Video :
+### 💻 Software
+- **Languages:** JavaScript, HTML, CSS  
+- **Frontend:** React  
+- **Routing:** React Router  
+- **HTTP Requests:** Axios  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB
 
-User side menu
-https://drive.google.com/file/d/1matj_RzEwmMZqOiuxen2Q6qvRn1T3p0Y/view?usp=drive_link
+### 🖥️ Hardware
+- *N/A – Software-only project*
 
-Chef side management
-https://drive.google.com/file/d/1cpk4FjyvPJYZdCuLg_75MLjxi6Ci1o0D/view?usp=drive_link
+---
 
+## 🚀 Implementation
 
-Screenshots: https://drive.google.com/drive/folders/1ZcdRFMF4ussoGTg96KUoW2tufals5Kzq
+### 🔧 Installation
 
+```bash
+# Clone the repository
+git clone https://github.com/YourUsername/restaurant-menu-manager.git
 
-Team Contributions 
-Revathy: Responsible for frontend development (React components, styling with CSS). 
-Riya: Worked on backend API (Node.js, Express.js), database setup, and integration. 
-Nandana: Designed and implemented the UI, focused on user experience and interactivity.
+# Navigate into the project folder
+cd restaurant-menu-manager
+
+# Install dependencies
+npm install
+```
+
+### ▶️ Running the App
+
+```bash
+# Start the frontend (React)
+npm start
+```
+> The app runs at **http://localhost:3000** by default.
+
+---
+
+## 🎥 Project Demo
+
+- **👤 User-side Menu View**  
+  [Watch Demo](https://drive.google.com/file/d/1matj_RzEwmMZqOiuxen2Q6qvRn1T3p0Y/view?usp=drive_link)
+
+- **👨‍🍳 Chef-side Management**  
+  [Watch Demo](https://drive.google.com/file/d/1cpk4FjyvPJYZdCuLg_75MLjxi6Ci1o0D/view?usp=drive_link)
+
+- **🖼️ Screenshots**  
+  [View Folder](https://drive.google.com/drive/folders/1ZcdRFMF4ussoGTg96KUoW2tufals5Kzq)
+
+---
+
+## 🧑‍💻 Team Contributions
+
+| Team Member | Contributions |
+|-------------|----------------|
+| **Revathy** | Frontend development (React components, CSS styling) |
+| **Riya** | Backend API (Node.js, Express), MongoDB setup & integration |
+| **Nandana** | UI/UX design and interactivity enhancements |
+
+---
+
+Feel free to reach out for suggestions or improvements!
