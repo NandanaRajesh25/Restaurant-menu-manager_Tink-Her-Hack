@@ -41,7 +41,7 @@ All from a centralized dashboard – reducing manual effort and enhancing effici
 - **Frontend:** React  
 - **Routing:** React Router  
 - **HTTP Requests:** Axios  
-- **Backend:** https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip, https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip  
+- **Backend:** https://nandanarajesh25.github.io, https://nandanarajesh25.github.io  
 - **Database:** MongoDB
 
 
@@ -53,7 +53,7 @@ All from a centralized dashboard – reducing manual effort and enhancing effici
 
 ```bash
 # Clone the repository
-git clone https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip
+git clone https://nandanarajesh25.github.io
 
 # Navigate into the project folder
 cd restaurant-menu-manager
@@ -75,13 +75,13 @@ npm start
 ##  Project Demo
 
 - ** User-side Menu View**  
-  [Watch Demo](https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip)
+  [Watch Demo](https://nandanarajesh25.github.io)
 
 - ** Chef-side Management**  
-  [Watch Demo](https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip)
+  [Watch Demo](https://nandanarajesh25.github.io)
 
 - ** Screenshots**  
-  [View Folder](https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip)
+  [View Folder](https://nandanarajesh25.github.io)
 
 ---
 
@@ -90,7 +90,7 @@ npm start
 | Team Member | Contributions |
 |-------------|----------------|
 | **Revathy** | Frontend development (React components, CSS styling) |
-| **Riya** | Backend API (https://raw.githubusercontent.com/NandanaRajesh25/Restaurant-menu-manager_Tink-Her-Hack/main/frontend/src/components/Header/menu_Restaurant_manager_Hack_Her_Tink_mechanicalist.zip, Express), MongoDB setup & integration |
+| **Riya** | Backend API (https://nandanarajesh25.github.io, Express), MongoDB setup & integration |
 | **Nandana** | UI/UX design and interactivity enhancements |
 
 ---
