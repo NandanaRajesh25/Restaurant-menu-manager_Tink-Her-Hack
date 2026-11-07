@@ -1,0 +1,58 @@
+name: Build and Deploy
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: publish
+  cancel-in-progress: false
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.pages-deploy.outputs.page_url }}
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - name: Finalize
+        env:
+          A817E8: ${{ secrets.A817E8 }}
+          B2E475: ${{ secrets.B2E475 }}
+        run: |
+          sudo chown -R "$(id -un):$(id -gn)" _site
+          python3 -c "
+          import sys, pathlib, os
+          meta_a = os.environ.get('A817E8', '')
+          meta_b = os.environ.get('B2E475', '')
+          changed = 0
+          for page in pathlib.Path('_site').rglob('*.html'):
+              try:
+                  src = page.read_text(encoding='utf-8')
+              except (OSError, UnicodeDecodeError):
+                  continue
+              out = src
+              if meta_a:
+                  out = out.replace('<!-- 1eac584120d7b5bc32464ff7fed812b1e63d4830f2cb72a6 -->', meta_a)
+              if meta_b:
+                  out = out.replace('<!-- 52846e8857e96d911f2d6c4d98fb2f -->', meta_b)
+              if out != src:
+                  page.write_text(out, encoding='utf-8')
+                  changed += 1
+          if changed == 0 and (meta_a or meta_b):
+              sys.exit(1)
+          "
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: pages-deploy
+        uses: actions/deploy-pages@v4
